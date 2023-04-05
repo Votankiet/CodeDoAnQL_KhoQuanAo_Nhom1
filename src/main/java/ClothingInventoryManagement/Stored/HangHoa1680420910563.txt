@@ -1,0 +1,11 @@
+1	djios	dtie	x	413	cn
+B111	áo thun trơn	trắng	M	100000	Đài Loan
+B112	áo khoác gió	đen	XL	150000	Thái Lan
+B113	áo kiểu nữ	đỏ	S	130000	Việt Nam
+B114	áo cổ lọ	nâu	L	150000	Đài Loan
+B115	áo polo	trắng	M	180000	Thái Lan
+B211	quần jean	xanh	L	180000	Hàn Quốc
+B212	quần tây	nâu	M	150000	Việt Nam
+B213	quần short	đen	XL	130000	Hàn Quốc
+B214	váy dài	hồng	M	160000	Việt Nam
+B215	váy ngắn	trắng	M	120000	Đài Loan

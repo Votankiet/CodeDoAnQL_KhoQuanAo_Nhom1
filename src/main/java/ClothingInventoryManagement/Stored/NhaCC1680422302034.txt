@@ -1,0 +1,4 @@
+A001	Công Ty Diệp Xuân	số 1 Hàng Xanh	0123456789	diepxuan@gmail.com
+A002	Shop 123	21 bạch đằng	0145678256	123@gmail.com
+A003	Cửa hàng quần áo trẻ	123/2 cmt8	0708625602	tre@gmail.com
+A004	Shop Mỹ Diệu	200/5/3 Tôn Đản	0932003873	mydieu@gmail.com

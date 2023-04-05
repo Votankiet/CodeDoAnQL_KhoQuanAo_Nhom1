@@ -1,0 +1,2 @@
+B216	vay ngan	den	L	180000	Han Quoc
+B217	quan tay	den	S	100000	Thai Lan
